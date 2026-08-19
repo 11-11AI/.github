@@ -65,7 +65,7 @@ doctrine. The policy core and the hosted control plane stay closed.
 | Research corpus | [DOI-registered records on Zenodo](https://zenodo.org/communities/11-11-ai/records) |
 | Contact | [11aiblockchain.com](https://11aiblockchain.com) · quantum@11aiblockchain.com |
 
-Cryptography, named: Ed25519 · SHA3-512 · BLAKE2b-512 · ML-DSA-65 (FIPS 204) ·
+Cryptography, named: Ed25519 · SHA3-512 · BLAKE2b-512 · ML-DSA-87 (FIPS 204) ·
 SLH-DSA / SPHINCS+ (FIPS 205). Fail-closed by default.
 
 *© 2026 11 AI Blockchain Developments LLC · Apache-2.0 for released code ·
